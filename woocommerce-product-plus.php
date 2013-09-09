@@ -5,7 +5,7 @@
  * Plugin Name: WooCommerce Product Plus
  * Plugin URI: https://github.com/jeison-souza/woocommerce-product-plus
  * Description: Product extender for WooCommerce shop plugin.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Jeison Souza
  * Author URI: https://github.com/jeison-souza
  * License: GPLv3 or later
@@ -35,7 +35,7 @@
  if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
  
 if(defined('WCPP_VERSION')) return;
-define('WCPP_VERSION', '1.0.0');
+define('WCPP_VERSION', '1.0.1');
 
 require dirname(__FILE__) . '/classes/dependencies.class.php';
 require dirname(__FILE__) . '/classes/requests.class.php';
