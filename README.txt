@@ -1,7 +1,7 @@
 === WooCommerce Product Plus ===
 Contributors: jeison-souza
 
-Tags: delivery notes, delivery, shipping, print, order, invoice, invoices, woocommerce, woothemes, shop, shop manager, deckerweb
+Tags: stock, order, product, products, woocommerce, woothemes, shop, shop manager, jeison-souza
 Requires at least: 3.6 and WooCommerce 2.0
 Tested up to: 3.6 and WooCommerce 2.0.14
 Stable tag: trunk
@@ -29,7 +29,6 @@ Plugin to Wordpress that extends product with several new functionalities.
 Just started.
 
 == Plugin Links ==
-* [Translations (GlotPress)](http://translate.wpautobahn.com/projects/wordpress-plugins-deckerweb/woocommerce-product-plus)
 * [User support forums](http://wordpress.org/tags/woocommerce-product-plus)
 * [Developers: reports bugs & issues](https://github.com/jeison-souza/woocommerce-product-plus/issues)
 * [Developers: contribute](https://github.com/jeison-souza/woocommerce-product-plus)

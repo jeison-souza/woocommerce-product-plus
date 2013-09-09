@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Plus v0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-09-09 03:03:49+0000\n"
+"Last-Translator: jsouza <jeison.souza@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/dependencies.class.php:39
+#@ woocommerce-product-plus
+msgid "and"
+msgstr "e"
+
+#: classes/dependencies.class.php:47
+#, php-format
+#@ woocommerce-product-plus
+msgid "WooCommerce Product Plus is enabled but not effective. It requires %s in order to work."
+msgstr "WooCommerce Product Plus está ativo, mas não entrou em vigor. Ele requer %s para que funcione."
+
+#: classes/settings.class.php:44
+#: classes/settings.class.php:625
+#@ woocommerce-product-plus
+msgid "Reports"
+msgstr "Relatórios"
+
+#: classes/settings.class.php:51
+#@ woocommerce-product-plus
+msgid "Products"
+msgstr "Produtos"
+
+#: classes/settings.class.php:54
+#@ woocommerce-product-plus
+msgid "Overview"
+msgstr "Visão geral"
+
+#: classes/settings.class.php:284
+#@ woocommerce-product-plus
+msgid "Total products / variations"
+msgstr "Total de produtos / variações"
+
+#: classes/settings.class.php:286
+#: classes/settings.class.php:292
+#: classes/settings.class.php:298
+#@ woocommerce-product-plus
+msgid "n/a"
+msgstr "n/a"
+
+#: classes/woocommerce_product-plus.class.php:186
+#@ woocommerce-product-plus
+msgid "Dismiss"
+msgstr "Dispensar"
+
+#. translators: plugin header field 'Name'
+#: woocommerce-product-plus.php:0
+#@ woocommerce-product-plus
+msgid "WooCommerce Product Plus"
+msgstr "WooCommerce Product Plus"
+
+#. translators: plugin header field 'Description'
+#: woocommerce-product-plus.php:0
+#@ woocommerce-product-plus
+msgid "Product extender for WooCommerce shop plugin."
+msgstr "Extende produtos para o plugin de comércio WooCommerce."
+
+#: classes/woocommerce_product-plus.class.php:182
+#@ woocommerce-product-plus
+msgid "WooCommerce Product Plus is installed. Would you like to see a quick overview?"
+msgstr "WooCommerce Product Plus está instalado. Gostaria de ver um resumo rápido?"
+
+#: classes/woocommerce_product-plus.class.php:185
+#@ woocommerce-product-plus
+msgid "Learn how to use WooCommerce Product Plus"
+msgstr "Aprenda a usar o WooCommerce Product Plus"
+
+#: classes/settings.class.php:290
+#@ woocommerce-product-plus
+msgid "Total products / variations in low stock"
+msgstr "Total de produtos / variações com estoque baixo"
+
+#: classes/settings.class.php:296
+#@ woocommerce-product-plus
+msgid "Total products / variations out of stock"
+msgstr "Total de produtos / variações sem estoque"
+
+#: classes/settings.class.php:60
+#@ woocommerce-product-plus
+msgid "Products list"
+msgstr "Lista de produtos"
+
+#: classes/settings.class.php:304
+#@ woocommerce-product-plus
+msgid "Modifieds products per day"
+msgstr "Produtos modificados por dia"
+
+#: classes/settings.class.php:429
+#@ woocommerce-product-plus
+msgid "Status"
+msgstr "Status"
+
+#: classes/settings.class.php:430
+#@ woocommerce-product-plus
+msgid "Visibility"
+msgstr "Visibilidade"
+
+#: classes/settings.class.php:608
+#@ woocommerce-product-plus
+msgid "There are no products to show."
+msgstr "Não há produtos para exibir."
+
